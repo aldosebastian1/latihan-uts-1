@@ -1,0 +1,11 @@
+Catatan Perubahan:
+
+1. File `keterangan-proses.txt` dibuat untuk mencatat proses dan perubahan yang dilakukan selama pengerjaan latihan UTS 1.
+2. Pastikan setiap perubahan yang dilakukan dicatat dengan tanggal dan deskripsi yang jelas.
+3. Contoh format catatan:
+    - [Tanggal] Deskripsi perubahan
+    - [Tanggal] Penambahan fitur atau perbaikan bug
+4. Gunakan file ini sebagai referensi untuk dokumentasi proses pengembangan.
+
+1. First Inisialisasi - AldoSebastian
+    - [25] - Inisialisasi awal
