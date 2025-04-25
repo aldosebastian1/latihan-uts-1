@@ -9,3 +9,6 @@ Catatan Perubahan:
 
 1. First Inisialisasi - AldoSebastian
     - [25] - Inisialisasi awal
+2.html bagian- daud Nicholas
+	mencamtumkan video ke dalam html,menulis kan deskripsi dan nama artis serta latar belakang artis
+
