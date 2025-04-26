@@ -15,3 +15,5 @@ Catatan Perubahan:
     [01:27] - perbaikan html, penambahan css header dan main bagian atas
 4. Penambahan CSS - Cyntia Clarisa Veronika Sitanggang
     Penambahan flex box/grid dan perubahan warna. 
+5. html bagian-2 Rava Abde Kemala Dewa
+	membuat file html about
