@@ -13,3 +13,5 @@ Catatan Perubahan:
 	mencamtumkan video ke dalam html,menulis kan deskripsi dan nama artis serta latar belakang artis
 3. perbaikan html, css - ALdo Sebastian
     [01:27] - perbaikan html, penambahan css header dan main bagian atas
+4. Penambahan CSS - Cyntia Clarisa Veronika Sitanggang
+    Penambahan flex box/grid dan perubahan warna. 
