@@ -9,6 +9,7 @@ Catatan Perubahan:
 
 1. First Inisialisasi - AldoSebastian
     - [25] - Inisialisasi awal
-2.html bagian- daud Nicholas
+2. html bagian- daud Nicholas
 	mencamtumkan video ke dalam html,menulis kan deskripsi dan nama artis serta latar belakang artis
-
+3. perbaikan html, css - ALdo Sebastian
+    [01:27] - perbaikan html, penambahan css header dan main bagian atas
