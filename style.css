@@ -6,3 +6,89 @@
     margin: 0;
     padding: 0;
 }
+body {
+    background-color: #f4f4f4;
+    color: #333;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+nav {
+    margin: 20px 0;
+}
+
+nav a {
+    display: inline;
+    margin: 0 15px;
+}
+nav a {
+    /* list-style: none; */
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+nav a:hover {
+    text-decoration: none;
+    color: #616060;
+    transition: color 0.3s ease;
+}
+
+.deskripsi {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-size: 1rem;
+    text-align: justify;
+}
+main {
+    padding: 20px;  
+    max-width: 1200px; 
+    width: 100%;
+    margin: 0 auto; 
+    background-color: #fff;  
+    border-radius: 8px;
+}
+
+main h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+main > p {
+    text-align: justify;
+
+}
+.nama-lagu {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: 600;
+    padding: 20px 20px;
+}
+
+.nama-lagu span {
+    font-size: 0.8em;
+    color: #666;
+    margin: 10px 10px;
+    letter-spacing: 0.2px;
+}
+.nama-lagu span:before {
+    content: " - ";
+}
+.nama-lagu span:after {
+    content: " - ";
+}
+.nama-lagu span:hover {
+    color: #333;
+    transition: color 0.3s ease;
+}
